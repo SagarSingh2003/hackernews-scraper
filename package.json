@@ -1,0 +1,22 @@
+{
+  "name": "qa_wolf_take_home",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ora": "^8.1.1",
+    "playwright": "^1.39.0",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-plus": "^1.0.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9"
+  }
+}
